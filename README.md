@@ -5,12 +5,13 @@ Consists of two application one using array and other using json server to persi
 
 ## 1. Book App using Array to persist data temporarily untill project restart
 
-Add BookApp class in index.js file  
-ReactDOM.render(<BookApp />, document.getElementById('root'));
+change class to BookApp class in index.js file  
 
 ### `npm start`
 
 ## 2. Book Store using Json Server to persist data
+
+change class to BookStore class in index.js file  
 
 ## Install and Run the Json Server
 
