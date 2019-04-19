@@ -1,0 +1,25 @@
+{
+  "book": [
+    {
+      "id": "1",
+      "title": "Head First Java",
+      "description": "Core Java, Advanced Java and JEE",
+      "price": "400",
+      "imgurl": "https://bit.ly/2Xer9lt"
+    },
+    {
+      "title": "Javascript",
+      "description": "Complete guide for learning Javascript",
+      "price": "200",
+      "imgurl": "https://bit.ly/2BUf63W",
+      "id": 8
+    },
+    {
+      "title": "Python 3",
+      "description": "Learn Python 3 The Hard Way",
+      "price": "300",
+      "imgurl": "https://bit.ly/2tL0tvi",
+      "id": 9
+    }
+  ]
+}
